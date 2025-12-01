@@ -45,10 +45,6 @@ Feel free to explore the scripts, run the analyses, and use or modify the datase
 
 Contributions, improvements, or additional resources are welcome! Please fork the repository and submit a pull request for review.
 
-## License
-
-This repository is made available for educational purposes. Please check individual files for specific license information if present.
-
 ## Author
 
 [Nitin Srivastava](https://github.com/nitinsriv)
